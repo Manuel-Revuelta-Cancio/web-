@@ -1,0 +1,12 @@
+.contenidp{
+    background-color: aqua;
+    text-align: center;
+}
+.row ul li{
+list-style: none;
+display: inline-flex;
+display: inline;
+margin: 10px;
+padding: 10px;
+left: 20px;
+}
